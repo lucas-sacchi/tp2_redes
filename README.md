@@ -1,17 +1,10 @@
-# tp2_redes
-Implementação de um servidor web, utilizando quatro técnicas distintas de programação com sockets para análises comparativas.
-
-===================================================================
 Trabalho Prático 2 - Redes de Computadores
 Servidor Web com diferentes abordagens de sockets
-===================================================================
 
 Autor: Lucas Mendonça Sacchi
 Data: Junho 2025
 
-===================================================================
-Descrição do Projeto
-===================================================================
+## Descrição do Projeto
 
 Este projeto implementa um servidor web simples em C utilizando
 quatro abordagens diferentes de programação com sockets:
@@ -28,9 +21,9 @@ Os servidores retornam arquivos estáticos (HTML, PNG, PDF, etc.)
 para requisições HTTP GET feitas por navegadores ou ferramentas
 de benchmark.
 
-===================================================================
-Estrutura do Projeto
-===================================================================
+
+## Estrutura do Projeto
+
 
 tp2_redes/
 ├── src/
@@ -44,9 +37,9 @@ tp2_redes/
 │   ├── script_testes_ab.sh   --> script para rodar testes automatizados
 ├── README.txt                --> este arquivo
 
-===================================================================
-Como Compilar e Rodar o Código Manualmente
-===================================================================
+
+## Como Compilar e Rodar o Código Manualmente
+
 
 1) Abra um terminal e navegue até a pasta da versão que você deseja testar, por exemplo:
 
@@ -76,9 +69,9 @@ Você pode testar acessando diretamente:
 - http://localhost:8080/testepdf.pdf
 - http://localhost:8080/testefoto.png
 
-===================================================================
-Como Rodar os Testes Automatizados com AB
-===================================================================
+
+## Como Rodar os Testes Automatizados com AB
+
 
 Pré-requisitos:
 
@@ -86,7 +79,6 @@ Pré-requisitos:
 
 sudo apt install apache2-utils
 
-===================================================================
 Passos:
 
 1) Abra o terminal.
@@ -129,9 +121,7 @@ Exemplo:
 - ab_results_threads.txt
 - ab_results_select.txt
 
-===================================================================
-Observações Finais
-===================================================================
+## Observações Finais
 
 - O servidor deve estar rodando antes de executar o script de testes AB.
 - Durante os testes você verá o log das requisições no terminal.
