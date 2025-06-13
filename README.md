@@ -21,23 +21,6 @@ Os servidores retornam arquivos estáticos (HTML, PNG, PDF, etc.)
 para requisições HTTP GET feitas por navegadores ou ferramentas
 de benchmark.
 
-
-## Estrutura do Projeto
-
-
-tp2_redes/
-├── src/
-│   ├── iterativo/            --> versão server_iterativo
-│   ├── fork/                 --> versão server_fork
-│   ├── threads/              --> versão server_threads
-│   ├── select/               --> versão server_select
-│   ├── servidor.c / servidor.h --> funções comuns (tratar_conexao, log_requisicao, etc)
-│   └── arquivos/             --> arquivos servidos (testeindex.html, testefoto.png, testepdf.pdf)
-├── scripts/
-│   ├── script_testes_ab.sh   --> script para rodar testes automatizados
-├── README.txt                --> este arquivo
-
-
 ## Como Compilar e Rodar o Código Manualmente
 
 
@@ -127,5 +110,3 @@ Exemplo:
 - Durante os testes você verá o log das requisições no terminal.
 - Todas as versões foram projetadas para rodar na porta 8080.
 - Não foram observadas perdas de requisições em nenhuma versão durante os testes.
-
-===================================================================
