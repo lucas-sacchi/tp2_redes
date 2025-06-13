@@ -1,0 +1,737 @@
+Resultados dos testes AB - Iterativo
+-----------------------------------
+Teste: -n 1000 -c 1
+-----------------------------------
+Failed requests:        0
+Requests per second:    10143.43 [#/sec] (mean)
+Time per request:       0.099 [ms] (mean)
+Time per request:       0.099 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 2
+-----------------------------------
+Failed requests:        0
+Requests per second:    14872.32 [#/sec] (mean)
+Time per request:       0.134 [ms] (mean)
+Time per request:       0.067 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 5
+-----------------------------------
+Failed requests:        0
+Requests per second:    9640.78 [#/sec] (mean)
+Time per request:       0.519 [ms] (mean)
+Time per request:       0.104 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 10
+-----------------------------------
+Failed requests:        0
+Requests per second:    20396.09 [#/sec] (mean)
+Time per request:       0.490 [ms] (mean)
+Time per request:       0.049 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 20
+-----------------------------------
+Failed requests:        0
+Requests per second:    22419.51 [#/sec] (mean)
+Time per request:       0.892 [ms] (mean)
+Time per request:       0.045 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 30
+-----------------------------------
+Failed requests:        0
+Requests per second:    10360.01 [#/sec] (mean)
+Time per request:       2.896 [ms] (mean)
+Time per request:       0.097 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 40
+-----------------------------------
+Failed requests:        0
+Requests per second:    22992.21 [#/sec] (mean)
+Time per request:       1.740 [ms] (mean)
+Time per request:       0.043 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 50
+-----------------------------------
+Failed requests:        0
+Requests per second:    24274.79 [#/sec] (mean)
+Time per request:       2.060 [ms] (mean)
+Time per request:       0.041 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 75
+-----------------------------------
+Failed requests:        0
+Requests per second:    19795.71 [#/sec] (mean)
+Time per request:       3.789 [ms] (mean)
+Time per request:       0.051 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 100
+-----------------------------------
+Failed requests:        0
+Requests per second:    18304.96 [#/sec] (mean)
+Time per request:       5.463 [ms] (mean)
+Time per request:       0.055 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 150
+-----------------------------------
+Failed requests:        0
+Requests per second:    17571.30 [#/sec] (mean)
+Time per request:       8.537 [ms] (mean)
+Time per request:       0.057 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 200
+-----------------------------------
+Failed requests:        0
+Requests per second:    22835.74 [#/sec] (mean)
+Time per request:       8.758 [ms] (mean)
+Time per request:       0.044 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 300
+-----------------------------------
+Failed requests:        0
+Requests per second:    22453.24 [#/sec] (mean)
+Time per request:       13.361 [ms] (mean)
+Time per request:       0.045 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 400
+-----------------------------------
+Failed requests:        0
+Requests per second:    22153.30 [#/sec] (mean)
+Time per request:       18.056 [ms] (mean)
+Time per request:       0.045 [ms] (mean, across all concurrent requests)
+
+Teste: -n 1000 -c 500
+-----------------------------------
+Failed requests:        0
+Requests per second:    17435.88 [#/sec] (mean)
+Time per request:       28.677 [ms] (mean)
+Time per request:       0.057 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 1
+-----------------------------------
+Failed requests:        0
+Requests per second:    2715.20 [#/sec] (mean)
+Time per request:       0.368 [ms] (mean)
+Time per request:       0.368 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 2
+-----------------------------------
+Failed requests:        0
+Requests per second:    9257.63 [#/sec] (mean)
+Time per request:       0.216 [ms] (mean)
+Time per request:       0.108 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 5
+-----------------------------------
+Failed requests:        0
+Requests per second:    14707.29 [#/sec] (mean)
+Time per request:       0.340 [ms] (mean)
+Time per request:       0.068 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 10
+-----------------------------------
+Failed requests:        0
+Requests per second:    13431.29 [#/sec] (mean)
+Time per request:       0.745 [ms] (mean)
+Time per request:       0.074 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 20
+-----------------------------------
+Failed requests:        0
+Requests per second:    13914.30 [#/sec] (mean)
+Time per request:       1.437 [ms] (mean)
+Time per request:       0.072 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 30
+-----------------------------------
+Failed requests:        0
+Requests per second:    21401.13 [#/sec] (mean)
+Time per request:       1.402 [ms] (mean)
+Time per request:       0.047 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 40
+-----------------------------------
+Failed requests:        0
+Requests per second:    11897.33 [#/sec] (mean)
+Time per request:       3.362 [ms] (mean)
+Time per request:       0.084 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 50
+-----------------------------------
+Failed requests:        0
+Requests per second:    24038.75 [#/sec] (mean)
+Time per request:       2.080 [ms] (mean)
+Time per request:       0.042 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 75
+-----------------------------------
+Failed requests:        0
+Requests per second:    15296.95 [#/sec] (mean)
+Time per request:       4.903 [ms] (mean)
+Time per request:       0.065 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 100
+-----------------------------------
+Failed requests:        0
+Requests per second:    26018.63 [#/sec] (mean)
+Time per request:       3.843 [ms] (mean)
+Time per request:       0.038 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 150
+-----------------------------------
+Failed requests:        0
+Requests per second:    16476.77 [#/sec] (mean)
+Time per request:       9.104 [ms] (mean)
+Time per request:       0.061 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 200
+-----------------------------------
+Failed requests:        0
+Requests per second:    17410.23 [#/sec] (mean)
+Time per request:       11.488 [ms] (mean)
+Time per request:       0.057 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 300
+-----------------------------------
+Failed requests:        0
+Requests per second:    23649.89 [#/sec] (mean)
+Time per request:       12.685 [ms] (mean)
+Time per request:       0.042 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 400
+-----------------------------------
+Failed requests:        0
+Requests per second:    12056.84 [#/sec] (mean)
+Time per request:       33.176 [ms] (mean)
+Time per request:       0.083 [ms] (mean, across all concurrent requests)
+
+Teste: -n 2000 -c 500
+-----------------------------------
+Failed requests:        0
+Requests per second:    15489.71 [#/sec] (mean)
+Time per request:       32.280 [ms] (mean)
+Time per request:       0.065 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 1
+-----------------------------------
+Failed requests:        0
+Requests per second:    12192.25 [#/sec] (mean)
+Time per request:       0.082 [ms] (mean)
+Time per request:       0.082 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 2
+-----------------------------------
+Failed requests:        0
+Requests per second:    12598.37 [#/sec] (mean)
+Time per request:       0.159 [ms] (mean)
+Time per request:       0.079 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 5
+-----------------------------------
+Failed requests:        0
+Requests per second:    18740.40 [#/sec] (mean)
+Time per request:       0.267 [ms] (mean)
+Time per request:       0.053 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 10
+-----------------------------------
+Failed requests:        0
+Requests per second:    17242.67 [#/sec] (mean)
+Time per request:       0.580 [ms] (mean)
+Time per request:       0.058 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 20
+-----------------------------------
+Failed requests:        0
+Requests per second:    14618.74 [#/sec] (mean)
+Time per request:       1.368 [ms] (mean)
+Time per request:       0.068 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 30
+-----------------------------------
+Failed requests:        0
+Requests per second:    16632.94 [#/sec] (mean)
+Time per request:       1.804 [ms] (mean)
+Time per request:       0.060 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 40
+-----------------------------------
+Failed requests:        0
+Requests per second:    18495.34 [#/sec] (mean)
+Time per request:       2.163 [ms] (mean)
+Time per request:       0.054 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 50
+-----------------------------------
+Failed requests:        0
+Requests per second:    13986.01 [#/sec] (mean)
+Time per request:       3.575 [ms] (mean)
+Time per request:       0.071 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 75
+-----------------------------------
+Failed requests:        0
+Requests per second:    18962.38 [#/sec] (mean)
+Time per request:       3.955 [ms] (mean)
+Time per request:       0.053 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 100
+-----------------------------------
+Failed requests:        0
+Requests per second:    19726.33 [#/sec] (mean)
+Time per request:       5.069 [ms] (mean)
+Time per request:       0.051 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 150
+-----------------------------------
+Failed requests:        0
+Requests per second:    24746.15 [#/sec] (mean)
+Time per request:       6.062 [ms] (mean)
+Time per request:       0.040 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 200
+-----------------------------------
+Failed requests:        0
+Requests per second:    19453.61 [#/sec] (mean)
+Time per request:       10.281 [ms] (mean)
+Time per request:       0.051 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 300
+-----------------------------------
+Failed requests:        0
+Requests per second:    17004.10 [#/sec] (mean)
+Time per request:       17.643 [ms] (mean)
+Time per request:       0.059 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 400
+-----------------------------------
+Failed requests:        0
+Requests per second:    15767.48 [#/sec] (mean)
+Time per request:       25.369 [ms] (mean)
+Time per request:       0.063 [ms] (mean, across all concurrent requests)
+
+Teste: -n 3000 -c 500
+-----------------------------------
+Failed requests:        0
+Requests per second:    21424.29 [#/sec] (mean)
+Time per request:       23.338 [ms] (mean)
+Time per request:       0.047 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 1
+-----------------------------------
+Failed requests:        0
+Requests per second:    7468.13 [#/sec] (mean)
+Time per request:       0.134 [ms] (mean)
+Time per request:       0.134 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 2
+-----------------------------------
+Failed requests:        0
+Requests per second:    14745.78 [#/sec] (mean)
+Time per request:       0.136 [ms] (mean)
+Time per request:       0.068 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 5
+-----------------------------------
+Failed requests:        0
+Requests per second:    14598.01 [#/sec] (mean)
+Time per request:       0.343 [ms] (mean)
+Time per request:       0.069 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 10
+-----------------------------------
+Failed requests:        0
+Requests per second:    19131.62 [#/sec] (mean)
+Time per request:       0.523 [ms] (mean)
+Time per request:       0.052 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 20
+-----------------------------------
+Failed requests:        0
+Requests per second:    15891.11 [#/sec] (mean)
+Time per request:       1.259 [ms] (mean)
+Time per request:       0.063 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 30
+-----------------------------------
+Failed requests:        0
+Requests per second:    18003.02 [#/sec] (mean)
+Time per request:       1.666 [ms] (mean)
+Time per request:       0.056 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 40
+-----------------------------------
+Failed requests:        0
+Requests per second:    17086.50 [#/sec] (mean)
+Time per request:       2.341 [ms] (mean)
+Time per request:       0.059 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 50
+-----------------------------------
+Failed requests:        0
+Requests per second:    21045.99 [#/sec] (mean)
+Time per request:       2.376 [ms] (mean)
+Time per request:       0.048 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 75
+-----------------------------------
+Failed requests:        0
+Requests per second:    16448.18 [#/sec] (mean)
+Time per request:       4.560 [ms] (mean)
+Time per request:       0.061 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 100
+-----------------------------------
+Failed requests:        0
+Requests per second:    15184.30 [#/sec] (mean)
+Time per request:       6.586 [ms] (mean)
+Time per request:       0.066 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 150
+-----------------------------------
+Failed requests:        0
+Requests per second:    19482.64 [#/sec] (mean)
+Time per request:       7.699 [ms] (mean)
+Time per request:       0.051 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 200
+-----------------------------------
+Failed requests:        0
+Requests per second:    19894.16 [#/sec] (mean)
+Time per request:       10.053 [ms] (mean)
+Time per request:       0.050 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 300
+-----------------------------------
+Failed requests:        0
+Requests per second:    19883.38 [#/sec] (mean)
+Time per request:       15.088 [ms] (mean)
+Time per request:       0.050 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 400
+-----------------------------------
+Failed requests:        0
+Requests per second:    23488.38 [#/sec] (mean)
+Time per request:       17.030 [ms] (mean)
+Time per request:       0.043 [ms] (mean, across all concurrent requests)
+
+Teste: -n 4000 -c 500
+-----------------------------------
+Failed requests:        0
+Requests per second:    14042.28 [#/sec] (mean)
+Time per request:       35.607 [ms] (mean)
+Time per request:       0.071 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 1
+-----------------------------------
+Failed requests:        0
+Requests per second:    8282.60 [#/sec] (mean)
+Time per request:       0.121 [ms] (mean)
+Time per request:       0.121 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 2
+-----------------------------------
+Failed requests:        0
+Requests per second:    11786.87 [#/sec] (mean)
+Time per request:       0.170 [ms] (mean)
+Time per request:       0.085 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 5
+-----------------------------------
+Failed requests:        0
+Requests per second:    15391.34 [#/sec] (mean)
+Time per request:       0.325 [ms] (mean)
+Time per request:       0.065 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 10
+-----------------------------------
+Failed requests:        0
+Requests per second:    17810.96 [#/sec] (mean)
+Time per request:       0.561 [ms] (mean)
+Time per request:       0.056 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 20
+-----------------------------------
+Failed requests:        0
+Requests per second:    19989.21 [#/sec] (mean)
+Time per request:       1.001 [ms] (mean)
+Time per request:       0.050 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 30
+-----------------------------------
+Failed requests:        0
+Requests per second:    23185.18 [#/sec] (mean)
+Time per request:       1.294 [ms] (mean)
+Time per request:       0.043 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 40
+-----------------------------------
+Failed requests:        0
+Requests per second:    18324.42 [#/sec] (mean)
+Time per request:       2.183 [ms] (mean)
+Time per request:       0.055 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 50
+-----------------------------------
+Failed requests:        0
+Requests per second:    23942.46 [#/sec] (mean)
+Time per request:       2.088 [ms] (mean)
+Time per request:       0.042 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 75
+-----------------------------------
+Failed requests:        0
+Requests per second:    17200.57 [#/sec] (mean)
+Time per request:       4.360 [ms] (mean)
+Time per request:       0.058 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 100
+-----------------------------------
+Failed requests:        0
+Requests per second:    18479.23 [#/sec] (mean)
+Time per request:       5.411 [ms] (mean)
+Time per request:       0.054 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 150
+-----------------------------------
+Failed requests:        0
+Requests per second:    15846.40 [#/sec] (mean)
+Time per request:       9.466 [ms] (mean)
+Time per request:       0.063 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 200
+-----------------------------------
+Failed requests:        0
+Requests per second:    15937.88 [#/sec] (mean)
+Time per request:       12.549 [ms] (mean)
+Time per request:       0.063 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 300
+-----------------------------------
+Failed requests:        0
+Requests per second:    18142.37 [#/sec] (mean)
+Time per request:       16.536 [ms] (mean)
+Time per request:       0.055 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 400
+-----------------------------------
+Failed requests:        0
+Requests per second:    13960.98 [#/sec] (mean)
+Time per request:       28.651 [ms] (mean)
+Time per request:       0.072 [ms] (mean, across all concurrent requests)
+
+Teste: -n 5000 -c 500
+-----------------------------------
+Failed requests:        0
+Requests per second:    17485.27 [#/sec] (mean)
+Time per request:       28.596 [ms] (mean)
+Time per request:       0.057 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 1
+-----------------------------------
+Failed requests:        0
+Requests per second:    6971.04 [#/sec] (mean)
+Time per request:       0.143 [ms] (mean)
+Time per request:       0.143 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 2
+-----------------------------------
+Failed requests:        0
+Requests per second:    17470.38 [#/sec] (mean)
+Time per request:       0.114 [ms] (mean)
+Time per request:       0.057 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 5
+-----------------------------------
+Failed requests:        0
+Requests per second:    18182.70 [#/sec] (mean)
+Time per request:       0.275 [ms] (mean)
+Time per request:       0.055 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 10
+-----------------------------------
+Failed requests:        0
+Requests per second:    20931.01 [#/sec] (mean)
+Time per request:       0.478 [ms] (mean)
+Time per request:       0.048 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 20
+-----------------------------------
+Failed requests:        0
+Requests per second:    17046.04 [#/sec] (mean)
+Time per request:       1.173 [ms] (mean)
+Time per request:       0.059 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 30
+-----------------------------------
+Failed requests:        0
+Requests per second:    16874.03 [#/sec] (mean)
+Time per request:       1.778 [ms] (mean)
+Time per request:       0.059 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 40
+-----------------------------------
+Failed requests:        0
+Requests per second:    19841.48 [#/sec] (mean)
+Time per request:       2.016 [ms] (mean)
+Time per request:       0.050 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 50
+-----------------------------------
+Failed requests:        0
+Requests per second:    23176.47 [#/sec] (mean)
+Time per request:       2.157 [ms] (mean)
+Time per request:       0.043 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 75
+-----------------------------------
+Failed requests:        0
+Requests per second:    16657.30 [#/sec] (mean)
+Time per request:       4.503 [ms] (mean)
+Time per request:       0.060 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 100
+-----------------------------------
+Failed requests:        0
+Requests per second:    16972.82 [#/sec] (mean)
+Time per request:       5.892 [ms] (mean)
+Time per request:       0.059 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 150
+-----------------------------------
+Failed requests:        0
+Requests per second:    21474.77 [#/sec] (mean)
+Time per request:       6.985 [ms] (mean)
+Time per request:       0.047 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 200
+-----------------------------------
+Failed requests:        0
+Requests per second:    17434.16 [#/sec] (mean)
+Time per request:       11.472 [ms] (mean)
+Time per request:       0.057 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 300
+-----------------------------------
+Failed requests:        0
+Requests per second:    16433.06 [#/sec] (mean)
+Time per request:       18.256 [ms] (mean)
+Time per request:       0.061 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 400
+-----------------------------------
+Failed requests:        0
+Requests per second:    17782.08 [#/sec] (mean)
+Time per request:       22.495 [ms] (mean)
+Time per request:       0.056 [ms] (mean, across all concurrent requests)
+
+Teste: -n 7500 -c 500
+-----------------------------------
+Failed requests:        0
+Requests per second:    14855.02 [#/sec] (mean)
+Time per request:       33.659 [ms] (mean)
+Time per request:       0.067 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 1
+-----------------------------------
+Failed requests:        0
+Requests per second:    7384.66 [#/sec] (mean)
+Time per request:       0.135 [ms] (mean)
+Time per request:       0.135 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 2
+-----------------------------------
+Failed requests:        0
+Requests per second:    16763.03 [#/sec] (mean)
+Time per request:       0.119 [ms] (mean)
+Time per request:       0.060 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 5
+-----------------------------------
+Failed requests:        0
+Requests per second:    17527.22 [#/sec] (mean)
+Time per request:       0.285 [ms] (mean)
+Time per request:       0.057 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 10
+-----------------------------------
+Failed requests:        0
+Requests per second:    18220.51 [#/sec] (mean)
+Time per request:       0.549 [ms] (mean)
+Time per request:       0.055 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 20
+-----------------------------------
+Failed requests:        0
+Requests per second:    16079.39 [#/sec] (mean)
+Time per request:       1.244 [ms] (mean)
+Time per request:       0.062 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 30
+-----------------------------------
+Failed requests:        0
+Requests per second:    15444.61 [#/sec] (mean)
+Time per request:       1.942 [ms] (mean)
+Time per request:       0.065 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 40
+-----------------------------------
+Failed requests:        0
+Requests per second:    17853.64 [#/sec] (mean)
+Time per request:       2.240 [ms] (mean)
+Time per request:       0.056 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 50
+-----------------------------------
+Failed requests:        0
+Requests per second:    17121.82 [#/sec] (mean)
+Time per request:       2.920 [ms] (mean)
+Time per request:       0.058 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 75
+-----------------------------------
+Failed requests:        0
+Requests per second:    18071.61 [#/sec] (mean)
+Time per request:       4.150 [ms] (mean)
+Time per request:       0.055 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 100
+-----------------------------------
+Failed requests:        0
+Requests per second:    15711.14 [#/sec] (mean)
+Time per request:       6.365 [ms] (mean)
+Time per request:       0.064 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 150
+-----------------------------------
+Failed requests:        0
+Requests per second:    21605.60 [#/sec] (mean)
+Time per request:       6.943 [ms] (mean)
+Time per request:       0.046 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 200
+-----------------------------------
+Failed requests:        0
+Requests per second:    22221.28 [#/sec] (mean)
+Time per request:       9.000 [ms] (mean)
+Time per request:       0.045 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 300
+-----------------------------------
+Failed requests:        0
+Requests per second:    20694.25 [#/sec] (mean)
+Time per request:       14.497 [ms] (mean)
+Time per request:       0.048 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 400
+-----------------------------------
+Failed requests:        0
+Requests per second:    16770.42 [#/sec] (mean)
+Time per request:       23.852 [ms] (mean)
+Time per request:       0.060 [ms] (mean, across all concurrent requests)
+
+Teste: -n 10000 -c 500
+-----------------------------------
+Failed requests:        0
+Requests per second:    15241.81 [#/sec] (mean)
+Time per request:       32.804 [ms] (mean)
+Time per request:       0.066 [ms] (mean, across all concurrent requests)
+
